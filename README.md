@@ -1,7 +1,7 @@
 <img align="left" alt="Brain" width="350" src="https://github.com/hmimeee/hmimeee/raw/main/coding.png">
-<img src="https://github.com/hmimeee/hmimeee/raw/main/hello.gif" height="80" width="15%">
+<img src="https://github.com/hmimeee/hmimeee/raw/main/hello.gif" width="30%">
 
-## OVERVIEW OF LOVE
+## OVERVIEW
 Hi, this is Imran. I love to work to develop web applications. Little less but also like to build hybrid mobile applications. Also working with API for mobile applications. I've been working for more than 3 years in this madness world. I like to explore new technologies and develop software solutions.
 - I like to explore new technologies and develop software solutions.
 - I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
@@ -11,7 +11,7 @@ Hi, this is Imran. I love to work to develop web applications. Little less but a
 ### 🛠 Tech Stacks
 These are the technologies or programmes I usually work.
 
- <img align="right" height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmimeee&theme=react&layout=compact" />
+ <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmimeee&theme=react&layout=compact" />
  
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Larvel-05122A?style=flat&logo=laravel)&nbsp;
