@@ -16,6 +16,7 @@ These are the technologies or programmes I usually work on.
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Larvel-05122A?style=flat&logo=laravel)&nbsp;
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-05122A?style=flat&logo=codeigniter)&nbsp;
+![Yii2](https://img.shields.io/badge/-Yii2-05122A?style=flat&logo=php)&nbsp;
 ![CakePHP](https://img.shields.io/badge/-CakePHP-05122A?style=flat&logo=cakephp)&nbsp;
 ![Apiato](https://img.shields.io/badge/-Apiato-05122A?style=flat&logo=laravel)&nbsp;
 
