@@ -2,14 +2,14 @@
 <img src="https://github.com/hmimeee/hmimeee/raw/main/hello.gif" width="30%">
 
 ## OVERVIEW
-Hi, this is Imran. I love to work to develop web applications. Little less but also like to build hybrid mobile applications. Also working with API for mobile applications. I've been working for more than 3 years in this madness world. I like to explore new technologies and develop software solutions.
-- I like to explore new technologies and develop software solutions.
-- I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+Hi, this is Imran. I love to play with PHP and Js to develop web applications. Also working with API for mobile applications. Been working for more than 4 years on these technologies. Here are some interests of mine I've figured out:
+- I like to explore new technologies and developing software solutions.
+- I'm on track for learning more about Systems Design, and Cloud Architecture.
 - I’m currently working on all kinds of frontend javascript frameworks like Vue.js, React.js, Angular.js, etc.
-- For backend PHP and Python and it's frameworks specially Laravel, Codeigniter, CakePHP, Django etc.
+- For backend I use PHP and it's frameworks specially Laravel, CodeIgniter, Yii/Yii2, CakePHP, etc.
 
 ### 🛠 Tech Stacks
-These are the technologies or programmes I usually work.
+These are the technologies or programmes I usually work on.
 
  <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmimeee&theme=react&layout=compact" />
  
@@ -18,10 +18,6 @@ These are the technologies or programmes I usually work.
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-05122A?style=flat&logo=codeigniter)&nbsp;
 ![CakePHP](https://img.shields.io/badge/-CakePHP-05122A?style=flat&logo=cakephp)&nbsp;
 ![Apiato](https://img.shields.io/badge/-Apiato-05122A?style=flat&logo=laravel)&nbsp;
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
