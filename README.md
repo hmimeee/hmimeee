@@ -49,3 +49,4 @@ Connect with me through social media.
 
  [![Twitter: hmimeee](https://img.shields.io/twitter/follow/hmimeee?style=social)](https://twitter.com/hmimeee)
 [![Linkedin: hmimeee](https://img.shields.io/badge/-hmimeee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hmimeee/)](https://www.linkedin.com/in/hmimeee/)
+[![GitHub hmimeee](https://img.shields.io/github/followers/hmimeee?label=follow&style=social)](https://github.com/hmimeee)
