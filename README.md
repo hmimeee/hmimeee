@@ -2,7 +2,7 @@
 <img src="https://github.com/hmimeee/hmimeee/raw/main/hello.gif" width="30%">
 
 ## OVERVIEW
-Hi, this is Imran. I love to play with PHP and Js to develop web applications. Also working with API for mobile applications. Been working for more than 4 years on these technologies. Here are some interests of mine I've figured out:
+Hi, this is Imran. I love to play with PHP and Js to develop web applications. Also working with API for mobile applications. Been working for more than 5 years on these technologies. Here are some interests of mine I've figured out:
 - I like to explore new technologies and developing software solutions.
 - I'm on track for learning more about Systems Design, and Cloud Architecture.
 - I’m currently working on all kinds of frontend javascript frameworks like Vue.js, React.js, Angular.js, etc.
